@@ -1,0 +1,7 @@
+获取标头信息
+制作shell脚本 （单引号改双引号）
+放入etc/storage/文件夹下
+给予权限
+sh /etc/storage/**.sh 直接运行脚本
+crontab -e 打开编辑脚本   i进行编辑  *****/每分钟运行一次  esc退出编辑  添加：后加wq保存退出
+
